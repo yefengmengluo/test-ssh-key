@@ -1,4 +1,4 @@
-package personal.git_test;
+package personal.zero_git;
 
 /**
  * Hello world!

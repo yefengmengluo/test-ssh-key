@@ -1,4 +1,4 @@
-package personal.git_test;
+package personal.zero_git;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
